@@ -32,7 +32,7 @@ Implemented techniques include:
 ## 📊 Data
 
 - **Universe**: 55 Indian stocks (top 5 market-cap from each of 11 sectors)
-- **Time Range**: Jan 2012 – Jan 2022
+- **Time Range**: Sept 2019 - Sept 2024
 - **Sampling Frequency**: Weekly
 ---
 
