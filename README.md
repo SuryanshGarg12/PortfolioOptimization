@@ -47,7 +47,6 @@ Implemented techniques include:
   - Thresholds using:
     - Standard Deviation (Std)
     - Median Absolute Deviation (MAD)
-- Positive Semi-Definite correction via Frobenius norm optimization
 ---
 
 
